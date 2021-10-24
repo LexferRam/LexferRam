@@ -1,21 +1,21 @@
 ### Hi there, I'm Lexfer Ramirez - [website][website] 👋
 
-[![Website](https://img.shields.io/website?label=lexferramirez.web.app.com)](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://lexferramirez.web.app)
+[![Website](https://img.shields.io/website?label=lexferramirez&style=for-the-badge&url=https%3A%2F%2Flexferramirez.web.app)](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)]
 <!-- [![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/) -->
 
 ## I'm a Developer, and Student!!
 
 - 🇻🇪 I'm from Venezuela
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to learn
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning mobile development with React Native
+<!-- - 👯 I’m looking to learn mobile development -->
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Hobbies: sports⚽ and calisthenics🏋️‍♂️
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="lexferramirez.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="lexferramirez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="lexferramirez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
