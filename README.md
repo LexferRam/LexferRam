@@ -1,6 +1,6 @@
 ### Hi there, I'm Lexfer Ramirez - [website][website] 👋
 
-[![Website](https://img.shields.io/website?label=lexferramirez&style=for-the-badge&url=https%3A%2F%2Flexferramirez.web.app)](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)
+[![Website](https://img.shields.io/website?label=lexferramirez&style=for-the-badge&url=https%3A%2F%2Flexfer-ramirez.vercel.app)](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)
 <!-- [![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/) -->
 
 ## I'm a Developer, and Student!!
