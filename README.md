@@ -56,7 +56,7 @@
 
 ---
 
-[website]: https://lexferramirez.web.app
+[website]: https://lexfer-ramirez.vercel.app
 <!-- [instagram]: https://lexferramirez.web.app/ -->
 [linkedin]: https://linkedin.com
 # LexferRam
