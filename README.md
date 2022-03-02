@@ -1,7 +1,9 @@
 ### Hi there, I'm Lexfer Ramirez - [website][website] 👋
 
 [![Website](https://img.shields.io/website?label=lexferramirez&style=for-the-badge&url=https://lexfer-ramirez.vercel.app)](https://lexfer-ramirez.vercel.app)
-<!-- [![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/) -->
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](www.linkedin.com/in/lexfer-ramirez-0b84261b3) 
+<!--https://strapiportafolioweb.herokuapp.com/admin/auth/login-->
+<!--https://lexfer-ramirez.vercel.app-->
 
 ## I'm a Software Developer
 
