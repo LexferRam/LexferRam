@@ -1,7 +1,7 @@
 ### Hi there, I'm Lexfer Ramirez - [website][website] 👋
 
 [![Website](https://img.shields.io/website?label=lexferramirez&style=for-the-badge&url=https://lexfer-ramirez.vercel.app)](https://lexfer-ramirez.vercel.app)
-[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](www.linkedin.com/in/lexfer-ramirez-0b84261b3) 
+<!-- [![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](www.linkedin.com/in/lexfer-ramirez-0b84261b3) -->
 <!--https://strapiportafolioweb.herokuapp.com/admin/auth/login-->
 <!--https://lexfer-ramirez.vercel.app-->
 
@@ -16,7 +16,8 @@
 ### Connect with me:
 
 [<img align="left" alt="https://lexfer-ramirez.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lexferramirez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lexferramirez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[linkedin]
 <!-- [<img align="left" alt="lexferramirez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
