@@ -7,16 +7,13 @@
 
 ## I'm a Software Developer
 
-- 🇻🇪 I'm from Venezuela
-- 🌱 I’m currently learning mobile development with React Native
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🌱 Mobile development with React Native
+- 🥅 Improve my skills as JS developer
 - ⚡ Hobbies: sports⚽ and calisthenics🏋️‍♂️
-<!-- - 👯 I’m looking to learn mobile development -->
 
 ### Connect with me:
 
 [<img align="left" alt="https://lexfer-ramirez.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lexferramirez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg=www.linkedin.com/in/lexfer-ramirez-0b84261b3" />]
 
 
 <!-- [<img align="left" alt="lexferramirez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
