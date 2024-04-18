@@ -9,7 +9,7 @@
 
 - 🌱 Mobile development with React Native
 - 🥅 Improve my skills as JS developer
-- ⚡ Hobbies: sports⚽ and calisthenics🏋️‍♂️
+- ⚡ ReactJS developer
 
 ### Connect with me:
 
